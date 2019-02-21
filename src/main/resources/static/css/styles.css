@@ -1,0 +1,29 @@
+.bodytext, footer, hr{
+    color: white;
+}
+
+.intro{
+    color: white;
+}
+.lead{
+    font-weight: 400;
+}
+.welcome{
+    font-family: "Goonies";
+}
+
+.bgimg {
+    background-image:
+            /*linear-gradient(*/
+                    /*rgba(248,182,0,.5),*/
+                    /*rgba(248,182,0,.5)*/
+            /*), */
+            url("https://res.cloudinary.com/jivesolid/image/upload/v1550773266/the-goonies-wallpapers-30021-6085922.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.cast{
+    align-content: center;
+}
+
